@@ -45,18 +45,11 @@ while name == "":
 print_slow("Oh so your name is " + name + " that is a interesting name!")
 print_slow("Welcome to the game! Are you ready?")
 
-while input != "yes" or "no":
+input("no")
+while input != "yes":
   input(">>> ")
   if input == "yes":
     break
-
-  elif input == "no":
-    print("Okay, we can wait :D")
-    continue
-
-  else: 
-    print("Please answer with ""yes"" or ""no""")
-    continue
     
 
 
