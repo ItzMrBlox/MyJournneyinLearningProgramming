@@ -126,3 +126,5 @@ dmypy.json
 
 
 .vscode/
+Python/Text Based Game/.vscode/launch.json
+Python/Text Based Game/.vscode/settings.json
