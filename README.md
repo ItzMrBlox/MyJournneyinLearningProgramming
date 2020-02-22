@@ -2,8 +2,8 @@
 *by Blox*
 
 
-## Programming Languaged Learned Level
+## Programming Languaged Learned 
 
-* HTML
-* Javascript
-* Python 
+* HTML - Beginner
+* Javascript - Beginner
+* Python - Beginner
