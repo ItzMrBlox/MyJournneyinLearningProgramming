@@ -4,9 +4,9 @@
 
 ## Programming Languages Learned 
 
-* **HTML** - Beginner
-* **Javascript** - Beginner
-* **Python** - Beginner
+* **[HTML](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#HTML)** - Beginner
+* **[Javascript](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#javascript)** - Beginner
+* **[Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)** - Beginner
 
 ### Programming Languages I want to learn
 
