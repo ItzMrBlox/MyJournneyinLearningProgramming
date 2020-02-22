@@ -2,8 +2,12 @@
 *by Blox*
 
 
-## Programming Languaged Learned 
+## Programming Languages Learned 
 
 * **HTML** - Beginner
 * **Javascript** - Beginner
 * **Python** - Beginner
+
+### Programming Languages I want to learn
+
+* **C++**
