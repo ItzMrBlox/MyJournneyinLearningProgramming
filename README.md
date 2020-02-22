@@ -4,6 +4,6 @@
 
 ## Programming Languaged Learned 
 
-* HTML - Beginner
-* Javascript - Beginner
-* Python - Beginner
+* **HTML** - Beginner
+* **Javascript** - Beginner
+* **Python** - Beginner
