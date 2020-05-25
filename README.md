@@ -17,6 +17,7 @@
 ### Projects
 ####  HTML
 * [Dauntless Unseen Translator](https://github.com/ItzMrBlox/DauntlessUnseenTranslator)
+* [RyzeRP Redirect](https://github.com/ItzMrBlox/RyzeRPRedirect)
 
 #### Javascript
 * [Dauntless Unseen Translator<sup>Script</sup>](https://github.com/ItzMrBlox/DauntlessUnseenTranslator/blob/master/scripts/translate.js)
