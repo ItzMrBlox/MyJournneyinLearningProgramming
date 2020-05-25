@@ -1,5 +1,5 @@
 # My Journney in Learning Programming Language
-*by <img src="https://avatars2.githubusercontent.com/u/48685514?s=150&v=4" width="20px">[Blox](https://github.com/ItzMrBlox)*
+*by <img src="https://avatars2.githubusercontent.com/u/48685514?s=150&v=4" width="50px">[Blox](https://github.com/ItzMrBlox)*
 
 
 ## Programming Languages Learned 
