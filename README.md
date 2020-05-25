@@ -1,5 +1,5 @@
 # My Journney in Learning Programming Language
-*by Blox*
+*by [Blox](https://github.com/ItzMrBlox)*
 
 
 ## Programming Languages Learned 
