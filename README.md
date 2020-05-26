@@ -21,6 +21,7 @@
 
 #### Javascript
 * [Dauntless Unseen Translator<sup>Script</sup>](https://github.com/ItzMrBlox/DauntlessUnseenTranslator/blob/master/scripts/translate.js)
+* [Clicking Game<sup>p5 library</sup>](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Javascript/p5%20Game)
 
 #### Python
 * [Text Based Game](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Python/Text%20Based%20Game)
