@@ -1,4 +1,3 @@
-# My Journney in Learning Programming Language
 *by [Blox](https://github.com/ItzMrBlox)*
 
 
