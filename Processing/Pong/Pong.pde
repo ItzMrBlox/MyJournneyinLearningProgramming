@@ -8,6 +8,7 @@ Boolean player1_up = false;
 Boolean player1_down = false;
 Boolean player2_up = false;
 Boolean player2_down = false;
+
 void setup () {
   size(1500, 750);
   P0 = new PVector(750, 375);
@@ -19,7 +20,7 @@ void draw () {
   background(255, 0, 100);
   fill(255, 255, 255); //Color of players and ball
   ellipse (P0.x, P0.y, 30, 30); //Ball
-  rect(1470, Player1Y, 20, 80); //Player1 
+  rect(1450, Player1Y, 20, 80); //Player1 
   rect(30, Player2Y, 20, 80); //Player2
     
   if(P0.y >= 750) {
@@ -36,7 +37,20 @@ void draw () {
   
     if(P0.x > 1450 && P0.y > Player1Y && P0.y < Player1Y + 80) { //Player1
     R.x = -1*R.x;
-  }   
+  }
+  //Checks if the 
+  if(Player1Y <= 0){
+    Player1Y = 0;
+  }
+  if(Player1Y >= 669){
+      Player1Y = 669;
+  }
+  if(Player2Y <= 0){
+    Player2Y = 0;
+  }
+  if(Player2Y >= 669){
+      Player2Y = 669;
+  }
   Score();
 }
 
@@ -64,10 +78,12 @@ void Score() {
     if(P0.x <= 0){ //If player 2 scores
       Player2S += 1;
         P0 = new PVector(750, 375);
+        R = new PVector(12, 4);
     }
     if(P0.x >= 1500){ //If player 1 scores
       Player1S += 1;
         P0 = new PVector(750, 375);
+        R = new PVector(-12, -4);
     }
 }
 
