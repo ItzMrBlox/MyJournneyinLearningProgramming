@@ -6,10 +6,10 @@
 * Expert
 * Advanced
 * Intermediate
-** [HTML](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#HTML)
+  * [HTML](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#HTML)
 * Beginner
-** [Javascript](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#javascript)
-** [Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)
+  * [Javascript](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#javascript)
+  * [Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)
 
 ### Programming Languages I want to learn
 
