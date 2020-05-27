@@ -1,9 +1,11 @@
 PVector P0;
 PVector R;
+//Player Information
 float Player1Y = 60; 
 float Player2Y = 60;
 int Player1S = 0;
 int Player2S = 0;
+//Boolean values for the controller for true and false statements
 Boolean player1_up = false;
 Boolean player1_down = false;
 Boolean player2_up = false;
@@ -15,14 +17,16 @@ void setup () {
   R = new PVector(12, 4);
 }
 void draw () {
-  players();
-  P0.add(R);
+  players();//Player Controller
+  P0.add(R); //Adding hte ball to the game
+  //Color of players, background, and ball
   background(255, 0, 100);
-  fill(255, 255, 255); //Color of players and ball
+  fill(255, 255, 255);
   ellipse (P0.x, P0.y, 30, 30); //Ball
   rect(1450, Player1Y, 20, 80); //Player1 
   rect(30, Player2Y, 20, 80); //Player2
     
+  //Speed Module
   if(P0.y >= 750) {
     R.y = -1*R.y;
   }
@@ -30,7 +34,7 @@ void draw () {
     if(P0.y <= 0) {
     R.y = -1*R.y;
   }
-  
+  //Return the ball
   if(P0.x < 60 && P0.y > Player2Y && P0.y < Player2Y + 80) { //Player2
     R.x = -1*R.x;
   } 
@@ -38,7 +42,7 @@ void draw () {
     if(P0.x > 1450 && P0.y > Player1Y && P0.y < Player1Y + 80) { //Player1
     R.x = -1*R.x;
   }
-  //Checks if the 
+  //Checks if the Player Paddle leaves the screen
   if(Player1Y <= 0){
     Player1Y = 0;
   }
@@ -54,23 +58,7 @@ void draw () {
   Score();
 }
 
-void players() { //Controller for the players
-    if(player1_up == true){
-      Player1Y -= 10;
-    }
-    if(player1_down == true){
-      Player1Y += 10;
-    }
-     if(player2_up == true){
-      Player2Y -= 10;
-    }
-    if(player2_down == true){
-      Player2Y += 10;
-    }
-  }
-
-
-void Score() {
+void Score() { //Score Board
   textSize(32);
   fill(0, 102, 153);
   text("Player 1: " + Player1S, 600, 30); 
@@ -87,6 +75,24 @@ void Score() {
     }
 }
 
+//Controller for the players
+void players() { 
+    if(player1_up == true){
+      Player1Y -= 10;
+    }
+    if(player1_down == true){
+      Player1Y += 10;
+    }
+     if(player2_up == true){
+      Player2Y -= 10;
+    }
+    if(player2_down == true){
+      Player2Y += 10;
+    }
+  }
+
+
+//Controller for true and false statements 
 void keyPressed() {
     if (keyCode == UP)
         player1_up = true;
