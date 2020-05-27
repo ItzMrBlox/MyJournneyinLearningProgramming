@@ -21,8 +21,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ### Projects
 ####  HTML
