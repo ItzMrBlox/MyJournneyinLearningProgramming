@@ -2,11 +2,14 @@
 *by [Blox](https://github.com/ItzMrBlox)*
 
 
-## Programming Languages Learned 
-
-* **[HTML](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#HTML)** - Beginner
-* **[Javascript](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#javascript)** - Beginner
-* **[Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)** - Beginner
+## Programming Languages Learned
+* Expert
+* Advanced
+* Intermediate
+** **[HTML](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#HTML)** - Intermediate
+* Beginner
+** **[Javascript](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#javascript)** - Beginner
+** **[Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)** - Beginner
 
 ### Programming Languages I want to learn
 
