@@ -31,7 +31,6 @@ input()
 clear()
 
 print_slow("Oh hi there. Didn't see you there, who are you?")
-
 name = input(">>> ")
 
 while name == "":
@@ -43,6 +42,7 @@ while name == "":
         break    
 
 print_slow("Oh so your name is " + name + " that is a interesting name!")
+
 print("Welcome to the game! Are you ready?")
 
 
