@@ -1,6 +1,6 @@
 # My Journney in Learning Programming Language
 *by [Blox](https://github.com/ItzMrBlox)*
-### Table of Contents
+
 
 
 ## Programming Languages Learned
@@ -12,7 +12,7 @@
   * [Javascript](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#javascript)
   * [Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)
 
-## Programming Languages I want to learn
+### Programming Languages I want to learn
 
 * **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**
 * **[Flutter](https://flutter.dev/)**
