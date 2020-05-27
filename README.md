@@ -2,19 +2,28 @@
 *by [Blox](https://github.com/ItzMrBlox)*
 
 
-## Programming Languages Learned 
 
-* **[HTML](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#HTML)** - Beginner
-* **[Javascript](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#javascript)** - Beginner
-* **[Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)** - Beginner
+## Programming Languages Learned
+* Expert
+* Advanced
+* Intermediate
+  * [HTML](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#HTML)
+* Beginner
+  * [Javascript](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#javascript)
+  * [Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)
 
 ### Programming Languages I want to learn
 
-* **C++**
+* **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**
+* **[Flutter](https://flutter.dev/)**
+* **[React](https://reactjs.org/)**
+* **[Arduino](https://www.arduino.cc/)**
 
+<br>
+<br>
+<br>
 
-
-### Projects
+## Projects
 ####  HTML
 * [Dauntless Unseen Translator](https://github.com/ItzMrBlox/DauntlessUnseenTranslator)
 * [RyzeRP Redirect](https://github.com/ItzMrBlox/RyzeRPRedirect)
