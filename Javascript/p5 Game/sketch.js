@@ -231,7 +231,7 @@ function startscreen(){
   ///How to start 
   textSize(20);
   text('Press Space to begin', startX+100, startY+250);
-  if (keyCode === 32) { //if space is pressed
+  if (keyCode === 32) { //if Space is pressed
     startX = 1000;
     startY = 1000;
     }
