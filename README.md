@@ -1,4 +1,4 @@
-#My Journney in Learning Programming Language
+# My Journney in Learning Programming Language
 *by [Blox](https://github.com/ItzMrBlox)*
 
 
@@ -10,7 +10,9 @@
 
 ### Programming Languages I want to learn
 
-* **C++**
+* **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**
+* **[Flutter](https://flutter.dev/)**
+**[React](https://reactjs.org/)**
 
 
 
