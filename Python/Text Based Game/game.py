@@ -46,30 +46,22 @@ print_slow("Oh so your name is " + name + " that is a interesting name!")
 print("Welcome to the game! Are you ready?")
 
 
-context = input(">>> Yes or No ")
-while context == "":
+context = input(">>> Yes or No ").lower()
+answer = context
+while answer == "":
     if context == "yes":
+      print("lets begin")
+      answer = 1
       break
     elif context == "no":
-      print("We can wait :) Just say yes when you are ready")
-      continue
+      print("We can wait, just say yes when you are ready")
+      answer = ""
     else:
       print("Please answer with yes or no")
-      continue
-
-
-
-
-
-
-
-
-
-
+      context = ""
 
 
 #### - Ending - ####
-time.sleep(1)
-print("Game Over. Press Enter to Exit the Game :)")
+print("Game Over. Press Enter to Exit the Game")
 input()
 
