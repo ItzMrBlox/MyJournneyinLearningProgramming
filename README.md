@@ -1,4 +1,4 @@
-# My Journney in Learning Programming Language
+# My Journney in Learning Programming Languages
 *by [Blox](https://github.com/ItzMrBlox)*
 
 
