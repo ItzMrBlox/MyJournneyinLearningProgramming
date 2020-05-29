@@ -19,6 +19,8 @@
 * **[Flutter](https://flutter.dev/)**
 * **[React](https://reactjs.org/)**
 * **[Arduino](https://www.arduino.cc/)**
+* **[Swift](https://developer.apple.com/swift/)**
+* **[Kotlin](https://kotlinlang.org/)**
 
 <br>
 <br>
