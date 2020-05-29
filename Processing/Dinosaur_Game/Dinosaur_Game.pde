@@ -7,7 +7,6 @@ class Dino {
     py = baseY;
     vy = 0;
     ay = 0;
-    speed = 0.001;
     canJump = true;
     isJumping = false;
   }
@@ -25,7 +24,6 @@ void draw() {
       isJumping = true;
       vy = -10;
       ay = 0.32;
-      print("Player Jumped ");
     }
   }
   void landed_check(){
@@ -40,22 +38,39 @@ void draw() {
 }
 
 class Obstacles {
-  float lineY, ox, oy, ospeed, oh;
+  float lineY, oy, ospeed, speed, oh;
+  int ox;
   Obstacles(float lineY) {
-     ox = width;
+     ox = width+50;
      oy = lineY;
      ospeed = 0;
+     speed = 7;
      oh = random(50, 90);
   }
   void draw() {
     fill(25,25,25);
-    rect(ox-ospeed, oy-oh, 40, oh);
+    rect(ox, oy-oh, 40, oh);
+    fill(0);
+    textSize(19);
+    text("Speed: " + speed, 20, 40);
   }
   void move(){
-   ospeed += 1; 
+   ox -= speed; 
   }
-}
+  void increaseSpeed() { //Increase the speed once offscreen
+    speed += 0.1;
+  }
+  void offScreen(){
+  if(0 > ox){
+    ox = width+50;
+    oh = random(50, 90);
+    score.increaseScore();
+  }}
+  void collidePlayer(){
+    
+  }
 
+}
 class Score {
   int ScoreAmount;
   Score(int ScoreAmount){
@@ -66,10 +81,14 @@ class Score {
     textSize(19);
     text("Score: " + ScoreAmount, 20, 20);
   }
+  void increaseScore(){
+    obstacles.increaseSpeed();
+    ScoreAmount += 1;
+  }
 }
 
 float lineY;
-int ScoreAmount;
+int ScoreAmount = 0;
 Dino dino;
 Obstacles obstacles;
 Score score;
@@ -77,11 +96,11 @@ Score score;
 void drawGround() {
   stroke(0);
   fill(0);
-  rect(0, lineY, width, 120);
+  rect(0, lineY, width, 250);
 }
 
 void setup() {
-  size(1000, 700);
+  size(1500, 700);
   lineY = 480;
   dino = new Dino(lineY);
   obstacles = new Obstacles(lineY);
@@ -95,10 +114,14 @@ void draw() {
   obstacles.draw();
   obstacles.move();
   score.draw();
+  obstacles.offScreen();
 }
 
 void keyPressed(){
   if(key == ' '){
+    dino.jump();
+  }
+  if(keyCode == UP){
     dino.jump();
   }
 }
