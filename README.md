@@ -21,6 +21,7 @@
 * **[Arduino](https://www.arduino.cc/)**
 * **[Swift](https://developer.apple.com/swift/)**
 * **[Kotlin](https://kotlinlang.org/)**
+* **[PHP](https://www.php.net/)**
 
 <br>
 <br>
