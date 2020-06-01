@@ -1,7 +1,7 @@
 class Dino {
   float baseY, px, py, vy, ay, speed, h;
   boolean canJump, isJumping;
-  Dino(float lineY) {
+  Dino() {
     baseY = lineY;
     px = 100;
     py = baseY;
@@ -17,7 +17,7 @@ void draw() {
     py+=vy;
     landed_check();
     fill(60,60,60);
-    rect(80, py-h, 50, h);
+    rect(80, py-h, 50, h); //Player
 }
  void jump(){
     if( canJump ){
@@ -46,6 +46,9 @@ void draw() {
     textSize(19);
     text("canJump?: " + canJump, 1300, 60); 
     text("isJumping?: " + isJumping, 1300, 80);
+    text("py: " + py, 1300, 100);
+    text("ay: " + ay, 1300, 120);
+    text("vy: " + vy, 1300, 140);
    }
   }
 }

@@ -13,7 +13,7 @@ void drawGround() {
 void setup() {
   size(1500, 700);
   lineY = 480;
-  dino = new Dino(lineY);
+  dino = new Dino();
   obstacles = new Obstacles(lineY);
   score = new Score(ScoreAmount);
 }
@@ -44,4 +44,8 @@ void DebugMenu(){
     fill(0);
     textSize(19);
     text("Debug Menu", 1300, 15); 
+}
+
+void stop(){
+   noLoop(); 
 }
