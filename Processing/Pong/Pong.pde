@@ -14,7 +14,7 @@ Boolean player2_down = false;
 void setup () {
   size(1500, 750);
   P0 = new PVector(750, 375);
-  R = new PVector(12, 4);
+  R = new PVector(random(2,12), 2);
 }
 void draw () {
   players();//Player Controller
@@ -66,12 +66,12 @@ void Score() { //Score Board
     if(P0.x <= 0){ //If player 2 scores
       Player2S += 1;
         P0 = new PVector(750, 375);
-        R = new PVector(12, 4);
+        R = new PVector(random(-12, -2), 2);
     }
     if(P0.x >= 1500){ //If player 1 scores
       Player1S += 1;
         P0 = new PVector(750, 375);
-        R = new PVector(-12, -4);
+        R = new PVector(random(2,12), 2);
     }
 }
 
