@@ -13,6 +13,7 @@
   * [Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)
   * [Processing](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#Processing)
   * [SQL](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#SQL)
+  * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 #### Programming Languages I want to learn
 
