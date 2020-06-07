@@ -14,7 +14,7 @@
   * [Processing](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#Processing)
   * [SQL](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#SQL)
   * [CSS]()
-  * [C#](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#C#)
+  * [C#](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#c)
 
 #### Programming Languages I want to learn
 
