@@ -13,7 +13,8 @@
   * [Python](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#python)
   * [Processing](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#Processing)
   * [SQL](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#SQL)
-  * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+  * [CSS]()
+  * [C#](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#C#)
 
 #### Programming Languages I want to learn
 
@@ -25,7 +26,6 @@
 * **[Kotlin](https://kotlinlang.org/)**
 * **[PHP](https://www.php.net/)**
 * **[Java]()**
-* **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)**
 
 <br>
 <br>
@@ -49,3 +49,6 @@
 #### Processing
 * [Pong](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Processing/Pong)
 * [Dinosaur Game](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Processing/DinosaurGame)
+
+#### C#
+* [Counter](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/C%23/Counter)
