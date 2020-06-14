@@ -34,7 +34,6 @@
 ## Projects
 ####  HTML
 * [Dauntless Unseen Translator](https://github.com/ItzMrBlox/DauntlessUnseenTranslator)
-* [RyzeRP Redirect](https://github.com/ItzMrBlox/RyzeRPRedirect)
 * [Revvy's Slayer Cards](https://github.com/ItzMrBlox/Revvy-s-Dauntless-Slayer-Cards)
 
 #### Javascript
