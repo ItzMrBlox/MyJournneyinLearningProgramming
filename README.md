@@ -52,3 +52,6 @@
 
 #### C#
 * [Counter](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/C%23/Counter)
+
+#### Lua
+* [Guessing Game](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/Lua/GuessingGame.lua)
