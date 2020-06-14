@@ -15,6 +15,7 @@
   * [SQL](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#SQL)
   * [CSS]()
   * [C#](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#c)
+  * [Lua](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/blob/master/README.md#Lua)
 
 #### Programming Languages I want to learn
 
