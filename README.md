@@ -36,12 +36,14 @@
 ####  HTML
 * [Dauntless Unseen Translator](https://github.com/ItzMrBlox/DauntlessUnseenTranslator)
 * [Revvy's Slayer Cards](https://github.com/ItzMrBlox/Revvy-s-Dauntless-Slayer-Cards)
+* [Valorant Random](https://github.com/ItzMrBlox/ValorantRandom)
 
 #### Javascript
 * [Dauntless Unseen Translator<sup>Script</sup>](https://github.com/ItzMrBlox/DauntlessUnseenTranslator/blob/master/scripts/translate.js)
 * [Clicking Game<sup>p5 library</sup>](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Javascript/p5%20Game)
 * [Revvy's Slayer Cards<sup>Script</sup>](https://github.com/ItzMrBlox/Revvy-s-Dauntless-Slayer-Cards/blob/master/assets/scripts/main.js)
 * [Node Website Scraper](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Javascript/Node.js/Scrape)
+*[Valorant Random<sup>Script</sup>](https://github.com/ItzMrBlox/ValorantRandom/blob/master/index.js)
 
 #### Python
 * [Text Based Game](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Python/Text%20Based%20Game)
