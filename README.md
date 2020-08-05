@@ -43,7 +43,7 @@
 * [Clicking Game<sup>p5 library</sup>](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Javascript/p5%20Game)
 * [Revvy's Slayer Cards<sup>Script</sup>](https://github.com/ItzMrBlox/Revvy-s-Dauntless-Slayer-Cards/blob/master/assets/scripts/main.js)
 * [Node Website Scraper](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Javascript/Node.js/Scrape)
-*[Valorant Random<sup>Script</sup>](https://github.com/ItzMrBlox/ValorantRandom/blob/master/index.js)
+* [Valorant Random<sup>Script</sup>](https://github.com/ItzMrBlox/ValorantRandom/blob/master/index.js)
 
 #### Python
 * [Text Based Game](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Python/Text%20Based%20Game)
