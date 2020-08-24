@@ -10,25 +10,51 @@ using System.Windows.Forms;
 
 namespace Counter
 {
-    public partial class Form1 : Form
+    public partial class Counter : Form
     {
-        public Form1()
+
+        int count = 0;
+
+        public Counter()
         {
             InitializeComponent();
         }
 
-        int count = 0;
-
-        private void button1_Click(object sender, EventArgs e) /* When the +1 is clicked */
+        private void button1Pos_Click(object sender, EventArgs e) /* When the +1 is clicked */
         {
             count++;
-            label1.Text = count.ToString();
+            textBox1.Text = count.ToString();
         }
 
-        private void button2_Click(object sender, EventArgs e) /* When the -1 is clicked */
+        private void button1Neg_Click(object sender, EventArgs e)
         {
             count--;
-            label1.Text = count.ToString();
+            textBox1.Text = count.ToString();
+        }
+
+
+        private void button5Pos_Click(object sender, EventArgs e)
+        {
+            count += 5;
+            textBox1.Text = count.ToString();
+        }
+
+        private void button5Neg_Click(object sender, EventArgs e)
+        {
+            count -= 5;
+            textBox1.Text = count.ToString();
+        }
+
+        private void button10Pos_Click(object sender, EventArgs e)
+        {
+            count += 10;
+            textBox1.Text = count.ToString();
+        }
+
+        private void button10Neg_Click(object sender, EventArgs e)
+        {
+            count -= 10;
+            textBox1.Text = count.ToString();
         }
     }
 }
