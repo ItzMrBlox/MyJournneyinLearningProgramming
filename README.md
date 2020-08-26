@@ -44,7 +44,7 @@
 * [Revvy's Slayer Cards<sup>Script</sup>](https://github.com/ItzMrBlox/Revvy-s-Dauntless-Slayer-Cards/blob/master/assets/scripts/main.js)
 * [Node Website Scraper](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Javascript/Node.js/Scrape)
 * [Valorant Random Agent<sup>Script</sup>](https://github.com/ItzMrBlox/ValorantRandom/blob/master/assets/scripts/randomAgent.js)
-* [Valorant Random Loadout<supScript</sup>](https://github.com/ItzMrBlox/ValorantRandom/blob/master/assets/scripts/randomLoadout.js)
+* [Valorant Random Loadout<sup>Script</sup>](https://github.com/ItzMrBlox/ValorantRandom/blob/master/assets/scripts/randomLoadout.js)
 
 #### Python
 * [Text Based Game](https://github.com/ItzMrBlox/MyJournneyinLearningProgramming/tree/master/Python/Text%20Based%20Game)
